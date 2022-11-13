@@ -1,0 +1,10 @@
+.footer{
+    font-size: 0.75rem; 
+    text-align: center;
+    font-weight: bold;
+    color: hsl(219, 14%, 63%);
+}
+.footer__a{
+    color: hsl(219, 85%, 26%);
+    cursor: pointer;
+}

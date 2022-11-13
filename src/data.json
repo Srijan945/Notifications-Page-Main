@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Mark Webber",
+        "message": " reacted to your recent post",
+        "highlightedMessage": " My first tournament today!",
+        "readMore": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "time": "1m ago",
+        "img": "avatar-mark-webber.webp",
+        "seen": false
+    },
+    {
+        "name": "Angela Gray",
+        "message": " followed you",
+        "readMore": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "time": "5m ago",
+        "img": "avatar-angela-gray.webp",
+        "seen": false
+    },
+    {
+        "name": "Jacob Thompson",
+        "message": " has joined your group",
+        "highlightedMessage": " Chess Club",
+        "readMore": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "time": "1 day ago",
+        "img": "avatar-jacob-thompson.webp",
+        "seen": false
+    },
+    {
+        "name": "Rizky Hasanuddin",
+        "message": " sent you a private message",
+        "readMore": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+        "time": "5 days ago",
+        "img": "avatar-rizky-hasanuddin.webp",
+        "seen": false
+    },
+    {
+        "name": "Kimberly Smith",
+        "message": " commented on your picture",
+        "readMore": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "time": "1 week ago",
+        "img": "avatar-kimberly-smith.webp",
+        "seen": true,
+        "responseImage": "image-chess.webp"
+    },
+    {
+        "name": "Nathan Peterson",
+        "message": " reacted to your recent post",
+        "highlightedMessage": " 5 end-game strategies to increase your win rate",
+        "readMore": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "time": "2 weeks ago",
+        "img": "avatar-nathan-peterson.webp",
+        "seen": true
+    },
+    {
+        "name": "Anna Kim",
+        "message": " left the group",
+        "highlightedMessage": " Chess Club",       
+        "readMore": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "time": "2 weeks ago",
+        "img": "avatar-anna-kim.webp",
+        "seen": true
+    }
+]

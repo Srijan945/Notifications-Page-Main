@@ -1,0 +1,69 @@
+.tab{
+    background-color: hsl(211, 68%, 94%);
+    border-radius: 0.3125rem;
+    display: flex;
+    flex-direction: row;
+    padding: 0.75rem;
+    font-size: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+.tab__img img{
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.info__readMore{
+    border: 0.0625rem solid hsl(219, 12%, 42%);
+    border-radius: 0.3125rem;
+    padding: 0.5rem;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+.info__readMore:hover{
+    background-color: hsl(211, 68%, 94%);
+}
+.tab__info{
+    padding: 0 0.625rem 0;
+    position: relative;
+}
+.responseImage{
+    position: relative;
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 0.3125rem;
+}
+.info__message{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.message__name{
+    color: hsl(224, 21%, 14%);
+    font-weight: bold;
+    cursor: pointer;
+}
+.message__name:hover{
+    color: hsl(219, 85%, 26%);
+    transition: color 0.2s;
+}
+.message__highlighted{
+    color: hsl(219, 12%, 42%);
+    font-weight: bold;
+    cursor: pointer;
+}
+.message__highlighted:hover{
+    color: hsl(219, 85%, 26%);
+    transition: color 0.2s;
+}
+.info__time{
+    color: hsl(219, 14%, 63%);
+    margin-top: 0.2rem;
+    margin-bottom: 0rem;
+}
+.dot{
+    display: inline-block;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background-color: hsl(1, 90%, 64%);
+    margin-left: 0.25rem;
+}

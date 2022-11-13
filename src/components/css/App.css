@@ -1,0 +1,13 @@
+.app{
+  width: 100vw;
+  padding: 10%;
+  border-radius: 0.625rem;
+  box-shadow: 0 0 10px 1px grey;
+  background-color: white;
+}
+@media screen and (min-width: 650px){
+  .app{
+    width: 650px;
+    padding: 1.5rem 2rem;
+  }
+}
