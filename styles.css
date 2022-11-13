@@ -1,0 +1,28 @@
+@font-face{
+    font-family: plusJakartaSans;
+    src: url("./assets/fonts/static/PlusJakartaSans-ExtraBold.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: plusJakartaSans;
+    src: url(./assets/fonts/static/PlusJakartaSans-Medium.ttf);
+    font-weight: medium;
+}
+* {
+    box-sizing: border-box;
+}
+html{
+    min-width: 100vw;
+}
+body{
+    margin: 0;
+    min-height: 100vh;
+    font-family: plusJakartaSans;
+    background-color: hsl(210, 60%, 98%);
+}
+#root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
