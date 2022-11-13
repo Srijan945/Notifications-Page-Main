@@ -10,7 +10,6 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
   - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,7 +29,7 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Live Site URL: [URL](https://srijan945.github.io/Notifications-Page-Main/)
 
 ## Built with
 
